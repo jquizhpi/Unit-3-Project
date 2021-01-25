@@ -1,0 +1,90 @@
+body,
+html {
+    margin: 0;
+    padding-bottom: 150px;
+    text-align: center;
+    background-image: url('https://world.fantasticimago.com/wp-content/uploads/2013/12/Cool-Light-Grey-background-fantastic-imago-creative-studio-video-production.jpg');
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+h1 {
+    font-family: 'Piedra', cursive;
+}
+
+.img1 {
+    height: 500px;
+    float: inherit;
+}
+
+.img2 {
+    height: 500px;
+    float: inherit;
+}
+
+.grade:hover {
+    color: #00FFFF;
+    font-size: 2em;
+    font-family: 'Piedra', cursive;
+}
+
+.game1:hover {
+    color: #0000ff;
+    font-size: 2em;
+    font-family: 'Piedra', cursive;
+}
+
+.game2:hover {
+    color: #6a0dad;
+    font-size: 2em;
+    font-family: 'Piedra', cursive;
+}
+
+.movie:hover {
+    color: #FFFFFF;
+    font-size: 2em;
+    font-family: 'Piedra', cursive;
+}
+
+.music:hover {
+    color: #800000;
+    font-size: 2em;
+    font-family: 'Piedra', cursive;
+}
+
+.music:hover:after {
+    content: url(https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/The_Score.jpg/400px-The_Score.jpg);
+    display: block;
+    position: absolute;
+    left: 35%;
+    top: 225px;
+}
+
+a {
+    color: blue;
+}
+
+.one:hover {
+    color: purple;
+    font-size: 2em;
+    font-family: 'Piedra', cursive;
+}
+
+.two:hover {
+    color: blue;
+    font-size: 2em;
+    font-family: 'Piedra', cursive;
+}
+
+.three:hover {
+    color: black;
+    font-size: 2em;
+    font-family: 'Piedra', cursive;
+}
+
+.four:hover {
+    color: grey;
+    font-size: 2em;
+    font-family: 'Piedra', cursive;
+}
